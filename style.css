@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+  border: 10em;
+  margin-left: 10em;
+  margin-right: 10em;
+  font-family: "Merriweather", serif;
+}
+
+header p {
+  background-color: rgb(255, 250, 209);
+  text-align: center;
+}
+
+label {
+  color: rgb(153, 153, 153);
+}
+
+h3 {
+  text-align: left;
+}
+
+h4 {
+  text-align: left;
+}
+
+footer {
+  text-align: left;
+}
+
+#simply {
+  width: 20%;
+}
+
+#pizzetta {
+  width: 100%;
+  border-radius: 10px;
+}
+
+#testo {
+  color: coral;
+  text-align: left;
+  border-left: solid 2px rgb(214, 191, 60);
+  padding-left: 5px;
+}
+
+#testo1 {
+  text-align: left;
+}
+
+#liste {
+  text-align: left;
+}
+
+li {
+  padding: 1rem;
+}
