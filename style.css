@@ -7,8 +7,13 @@ body {
 }
 
 header p {
-  background-color: rgb(255, 250, 209);
+  background-color: #fff7dc;
   text-align: center;
+  padding: 0.4rem;
+  border-top: 1px solid #e4d6b4;
+  color: #004d4d;
+  font-size: 70%;
+  margin-bottom: 3.5em;
 }
 
 label {
@@ -25,6 +30,10 @@ h4 {
 
 footer {
   text-align: left;
+}
+
+li {
+  padding: 1rem;
 }
 
 #simply {
@@ -51,6 +60,6 @@ footer {
   text-align: left;
 }
 
-li {
-  padding: 1rem;
+#link {
+  color: #004d4d;
 }
